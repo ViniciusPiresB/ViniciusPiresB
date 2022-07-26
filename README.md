@@ -20,6 +20,12 @@
 ## Contact
 
 <p align="left" style="background:white">
+viniciuspbarreto1@gmail.com
+</p>
+
+<a href="mailto:viniciuspbarreto1@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-viniciuspbarreto1@gmail.com-05122A?style=flat&logo=email" alt="email"/>
+</a>
 <a href="https://www.linkedin.com/in/vinicius-pires-barreto-916383208/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Vinicius Pires Barreto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
