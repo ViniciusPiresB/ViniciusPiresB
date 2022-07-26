@@ -19,10 +19,6 @@
 
 ## Contact
 
-<p align="left" style="background:white">
-viniciuspbarreto1@gmail.com
-</p>
-
 <a href="mailto:viniciuspbarreto1@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-viniciuspbarreto1@gmail.com-05122A?style=flat&logo=email" alt="email"/>
 </a>
