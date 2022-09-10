@@ -5,8 +5,6 @@
 
 - 📚 I’m currently graduating at UFU - Universidade Federal de Uberlandia
 
-- 🌱 I’m currently learning SOLID principles
-
 - 🗣️ Pronouns: He/Him
 
 ## ⚙️ &nbsp;GitHub Analytics
