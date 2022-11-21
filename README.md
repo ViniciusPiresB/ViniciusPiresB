@@ -1,7 +1,7 @@
 <h1 align="left">Vinicius Pires Barreto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ViniciusPiresB&color=blue" alt="Profile views" /> </p>
 
-- 👨🏾‍💻 Junior Back-end Developer
+- 👨🏾‍💻 Back-end Developer
 
 - 📚 I’m currently graduating at UFU - Universidade Federal de Uberlandia
 
