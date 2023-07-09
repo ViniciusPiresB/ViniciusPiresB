@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Back-end Developer
 ------------------
 
-I've been coding for 3 years, learning and coding backend projects.
+I've been coding for 5 years, learning and coding backend projects.
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [viniciuspbarreto1@gmail.com](mailto:viniciuspbarreto1@gmail.com)
 * 🚀  I'm currently working on [my personal projects, you can see here](http://github.com/ViniciusPiresB?tab=repositories)
-* 🧠  I'm learning Nest.JS
 
 <a href="https://www.github.com/viniciuspiresb" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/viniciuspiresb?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
